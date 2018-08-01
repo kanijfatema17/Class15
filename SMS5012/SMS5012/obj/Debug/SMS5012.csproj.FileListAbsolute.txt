@@ -1,0 +1,53 @@
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\bin\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\bin\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.csprojResolveAssemblyReference.cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.StudentUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.Properties.Resources.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 10\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\bin\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\bin\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.csprojResolveAssemblyReference.cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.StudentUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.Properties.Resources.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 11\SMS5012\SMS5012\obj\Debug\SMS5012.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.csprojResolveAssemblyReference.cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.DepartmentSearchUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.StudentUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.Properties.Resources.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\obj\Debug\SMS5012.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\bin\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 12\SMS5012\SMS5012\bin\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.exe
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.pdb
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.csprojResolveAssemblyReference.cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.DepartmentSearchUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.StudentUi.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.Properties.Resources.resources
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.csproj.GenerateResource.Cache
+C:\Users\Trainer-403\Desktop\.NET Classes\Quarter 12\Batch 50\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.UI.DistrictForms.DistrictCreateUi.resources
+F:\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+F:\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+F:\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.exe.config
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.exe
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.pdb
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.exe
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\bin\Debug\SMS5012.pdb
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.csprojResolveAssemblyReference.cache
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.DepartmentSearchUi.resources
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.StudentUi.resources
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.Properties.Resources.resources
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.UI.DistrictForms.DistrictCreateUi.resources
+C:\Users\pct\Desktop\Day 15\Day 15\SMS5012\SMS5012\obj\Debug\SMS5012.csproj.GenerateResource.Cache
